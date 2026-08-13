@@ -1,6 +1,6 @@
 # Order Value & Payment Reconciliation
 
-![Power BI Dashboard](Which%20version%20of%the%20report%20are%20we%20using.png)
+![Power BI Dashboard](what%20version%20of%the%20report%20are%20we%20using.png)
 
 ## Overview
 
